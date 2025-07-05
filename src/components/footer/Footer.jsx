@@ -3,6 +3,10 @@ import "./Footer.css";
 import logo from "../../assets/Escape..svg";
 import { FOOTER_LINKS } from "../../static/static";
 
+
+// footer import qigada ishlami qogani uchun kichkina harda qip qoydm ismini
+
+
 const Footer = () => {
   return (
     <footer>
